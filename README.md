@@ -20,5 +20,8 @@ yarn build
 yarn lint
 ```
 
+### DEMO
+[DEMO](https://charlie50503.github.io/mask-map/.)
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
